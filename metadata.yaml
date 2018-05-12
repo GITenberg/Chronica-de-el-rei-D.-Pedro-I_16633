@@ -1,0 +1,36 @@
+_repo: Chronica-de-el-rei-D.-Pedro-I_16633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lopes, Fernão
+    aliases:
+    - Lopes, Fernao
+    - Lopez, Fernam
+    deathdate: 1459
+    gutenberg_agent_id: '6835'
+    url: http://www.gutenberg.org/2009/agents/6835
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Fern%C3%A3o_Lopes
+    - http://pt.wikipedia.org/wiki/Fern%C3%A3o_Lopes
+description: ''
+gutenberg_bookshelf:
+- PT História
+- PT Biografia
+gutenberg_issued: '2005-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16633'
+  lccn: '19002579'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pedro I, King of Portugal, 1320-1367'
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- Pedro I, 1357-1367'
+title: Chronica de el-rei D. Pedro I
+url: http://www.gutenberg.org/ebooks/16633
