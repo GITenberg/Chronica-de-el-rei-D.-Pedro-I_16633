@@ -16,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Fern%C3%A3o_Lopes
     - http://pt.wikipedia.org/wiki/Fern%C3%A3o_Lopes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16633#Chronica-de-el-rei-D.-Pedro-I
 gutenberg_bookshelf:
 - PT História
 - PT Biografia
